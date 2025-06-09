@@ -15,6 +15,7 @@ This guide will walk you through:
    - Procure SOL through your preferred means.
    - Go to [Raydium Swap](https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At). This link takes you to the direct swap page.
    - Click "I understand, confirm" for the $XIAN trading pair:
+   
      ![Screenshot of confirming](pictures/confirm_on_raydium.png)
    - Click **Connect Wallet**
 
