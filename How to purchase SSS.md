@@ -1,4 +1,4 @@
-# 💱 How to Buy $SSS on Xian via Raydium and SNAKexchange
+# 💱 How to Buy $SSS on Xian via Raydium and SNAKexchange on Desktop
 
 This guide will walk you through:
 
@@ -11,11 +11,14 @@ This guide will walk you through:
 ## 🔄 Step 1: Swap SOL for $XIAN on Raydium
 
 1. **Connect Your Wallet**  
-   - Install a Solana wallet like [Phantom](https://phantom.app/)
-   - Go to [Raydium Swap](https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At)
+   - Install a Solana wallet like [Phantom](https://phantom.app/) which is preferred for bridging.
+   - Procure SOL through your preferred means.
+   - Go to [Raydium Swap](https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At). This link takes you to the direct swap page.
+   - Click "I understand, confirm" for the $XIAN trading pair:
+     ![Screenshot of confirming](Documentation/pictures/confirm_on_raydium.png)
    - Click **Connect Wallet**
 
-   ![Screenshot of connecting Phantom](path/to/connect-wallet.png)
+   ![Screenshot of connecting Phantom](Documentation/pictures/confirm_on_raydium.png)
 
 2. **Select Tokens**  
    - From: `SOL`  
