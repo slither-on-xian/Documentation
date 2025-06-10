@@ -13,7 +13,7 @@ This guide will walk you through:
 1. **Connect Your Wallet**  
    - If you don't have one, install a Solana wallet like [Phantom](https://phantom.app/) which is preferred for bridging.
    - Procure SOL through your preferred means.
-   - Go to [Raydium Swap](https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At). This link takes you to the direct swap page.
+   - Go to [Raydium Swap](https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At). This link takes you to the direct swap page for the token GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At which is the wrapped $XIAN token on Solana.
    - Click "I understand, confirm" for the $XIAN trading pair:
    
      ![Screenshot of confirming](pictures/confirm_on_raydium.png)
@@ -23,21 +23,17 @@ This guide will walk you through:
 
    - Select **Phantom** (Or the other wallet you are using)
   
-   ![Screenshot of connecting Phantom](pictures/connect_to_raydium_2.png)
+   ![Screenshot of connecting Phantom2](pictures/connect_to_raydium_2.png)
 
    - Log in to your wallet and click **Connect**
   
-   ![Screenshot of connecting Phantom](pictures/connect_to_raydium_3.png)
+   ![Screenshot of connecting Phantom3](pictures/connect_to_raydium_3.png)
 
-3. **Select Tokens**  
-   - From: `SOL`  
-   - To: `XIAN`  
-     Token address:  
-     ```
-     GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At
-     ```
+   - If done properly, you should now see your wallet address in the top right corner of the Raydium page.
+  
+   ![Screenshot of connected to Raydium](pictures/connected_to_raydium.png)
 
-4. **Enter Amount and Swap**  
+3. **Enter Amount and Swap**  
    - Input the amount of SOL to swap  
    - Click **Swap**  
    - Approve the transaction in your wallet
