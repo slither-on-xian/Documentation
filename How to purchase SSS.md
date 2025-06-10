@@ -14,18 +14,18 @@ This guide will walk you through:
    - If you don't have one, install a Solana wallet like [Phantom](https://phantom.app/) which is preferred for bridging.
    - Procure SOL through your preferred means.
    - Go to [Raydium Swap](https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At). This link takes you to the direct swap page for the token GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At which is the wrapped $XIAN token on Solana.
-   - Click "I understand, confirm" for the $XIAN trading pair:
+   - Click "I understand, confirm" for the $XIAN trading pair.
    
      ![Screenshot of confirming](pictures/confirm_on_raydium.png)
-   - Click **Connect Wallet**
+   - Click **Connect Wallet**.
 
    ![Screenshot of connecting Phantom](pictures/connect_to_raydium.png)
 
-   - Select **Phantom** (Or the other wallet you are using)
+   - Select **Phantom** (Or the other wallet you are using).
   
    ![Screenshot of connecting Phantom2](pictures/connect_to_raydium_2.png)
 
-   - Log in to your wallet and click **Connect**
+   - Log in to your wallet and click **Connect**.
   
    ![Screenshot of connecting Phantom3](pictures/connect_to_raydium_3.png)
 
@@ -33,12 +33,21 @@ This guide will walk you through:
   
    ![Screenshot of connected to Raydium](pictures/connected_to_raydium.png)
 
-3. **Enter Amount and Swap**  
-   - Input the amount of SOL to swap  
-   - Click **Swap**  
-   - Approve the transaction in your wallet
+2. **Enter Amount and Swap**  
+   - Input the amount of SOL to swap. Be sure to keep around 0.02 SOL for transaction fees.
+   - Click **Swap**.  
+  
+   ![Screenshot of swapping on Raydium](pictures/swap_raydium_1.png)
+ 
+   - Verify the details and confirm the transaction in your wallet.
 
-   ![Swap SOL to XIAN](path/to/swap-confirm.png)
+   ![Screenshot of confirming swap on Raydium](pictures/swap_raydium_2.png)
+
+   - Verify you see a **Swap Confirmed** message at the bottom right of your screen.
+  
+   ![Screenshot of confirmed swap on Raydium](pictures/swap_raydium_3.png)
+
+   Congratulations! You are now ready to Bridge to the $XIAN Mainnet!
 
 ---
 
