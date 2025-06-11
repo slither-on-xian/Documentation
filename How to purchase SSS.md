@@ -14,7 +14,7 @@ This guide will walk you through:
    - If you don't have one, install a Solana wallet like [Phantom](https://phantom.app/) which is preferred for bridging.
    - Procure SOL through your preferred means.
    - Go to [Raydium Swap](https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At). This link takes you to the direct swap page for the token GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At which is the wrapped $XIAN token on Solana.
-   - Click "I understand, confirm" for the $XIAN trading pair.
+   - Click **I understand, confirm** for the $XIAN trading pair.
    
      ![Screenshot of confirming](pictures/confirm_on_raydium.png)
    - Click **Connect Wallet**.
