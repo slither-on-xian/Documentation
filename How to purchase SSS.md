@@ -21,7 +21,7 @@ This guide will walk you through:
 
    ![Screenshot of connecting Phantom](pictures/connect_to_raydium.png)
 
-   - Select **Phantom** (Or the other wallet you are using).
+   - Select **Phantom** (Or the other wallet you are using but this tutorial shows Phantom).
   
    ![Screenshot of connecting Phantom2](pictures/connect_to_raydium_2.png)
 
@@ -53,24 +53,48 @@ This guide will walk you through:
 
 ## 🌉 Step 2: Bridge $XIAN to the Xian Mainnet
 
-1. **Go to the Xian Bridge**  
-   - Visit [https://bridge.xian.org](https://bridge.xian.org)  
-   - Connect both **Solana** and **Xian** wallets
+1. **Chains**  
+   - Visit [https://bridge.xian.org](https://bridge.xian.org).
+   - Select **From Solana** and **To Xian** on the **Chains** menu.
+   - Click **Next**.
 
-   ![Connect wallets](path/to/connect-bridge.png)
+   ![Bridge](pictures/bridge_chains.png)
 
-2. **Bridge Your Tokens**  
-   - From Chain: `Solana`  
-   - To Chain: `Xian`  
-   - Token: `XIAN`  
-   - Enter the amount and click **Bridge**
+2. **Token**  
+   - Select the token you would like to bridge. **XIAN** in this tutorial.
+   - Enter the amount to bridge. Note that there is a minimum amount for each token and a small fee associated with using the bridge. The fee is a flat rate regardless of amount bridged.
+   - Click **Next**.
 
-   ![Bridge interface](path/to/bridge-interface.png)
+   ![Bridge Token](pictures/bridge_token.png)
 
-3. **Approve and Wait**  
-   - Confirm in your wallet  
-   - Wait for the transaction to complete  
-   - You may receive a small bonus of free XIAN for gas
+3. **Confirm**  
+   - Verify details of **From**, **To**, and **You Get** are all correct.
+   - Click **Connect** for the Xian Wallet and Solana Wallet. Unlock wallets as needed.
+   
+   ![Bridge Confirm Amounts](pictures/bridge_confirm1.png)
+
+   - Verify you see wallets as connected, and then click **Bridge**.
+  
+   ![Bridge Confirm Amounts](pictures/bridge_confirm2.png)
+   
+4. **Bridging**
+   - You should now see this screen:
+  
+   ![Bridging 1](pictures/bridging_1.png)
+
+   - There will be a pop up to unlock and confirm the transaction on Solana in your Phantom Wallet. 
+  
+   ![Bridging Unlock](pictures/bridging_unlock.png) ![Bridging Confirm](pictures/bridging_confirm.png)
+
+   - Once confirmed, the briding process will progress though **Waiting for funds**, **Sweeping**, **Transferring**, and **Done**. This process usually takes less than 1 minute, but wait at least 5-10 minutes before reaching out for support.
+  
+   ![Bridging Done](pictures/bridging_complete.png)
+
+   - Click **Show Transaction** to open the XIAN explorer and confirm the transaction was successful as indicated by the ✅.
+  
+   ![Bridging Transaction](pictures/bridging_transaction.png)
+
+   - You may also verify the balance of XIAN in your Xian Wallet. 
 
 ---
 
