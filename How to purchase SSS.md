@@ -124,21 +124,30 @@ This guide will walk you through:
        - Decrease the swap amount until the **price impact** is <3%.
        - OR Click the small gear above the swap interface, and change the slippage max to something larger than the calculated price impact and then click **Close**.
      
-         ![SNAKexchange homepage](pictures/slippage.png)
+         ![SNAKexchange slippage](pictures/slippage.png)
 
-   - Click **Swap** and approve in your wallet
+   - Click **Swap**.
+   - A pop-up may appear to approve the spending of your $XIAN with the DEX. Do not change the pre-filled value. Click **OK**.
+  
+   ![SNAKexchange approve](pictures/approve1.png)
 
-   ![SNAKexchange homepage](pictures/swap_ex1.png)
+   - Another pop-up will appear to send the **Approve** transaction. Verify the **function** says **Approve** and click **Accept**.
+  
+   ![SNAKexchange approvetransaction](pictures/approve2.png)
 
-4. **Verify Balance**  
-   - Check your wallet to confirm receipt of $SSS tokens
+   - After a short 1-3 second delay, another pop-up will approve for the **Swap** transaction. Click **Accept** to send the final transaction that will exchange your $XIAN for $SSS.
+
+   ![SNAKexchange Swaptransaction](pictures/final.png)
+
+3. **Verify Balance**  
+   - Check your wallet to confirm receipt of $SSS tokens.
 
 ---
 
 ## 📢 Stay Connected
 
-- [Join Telegram](https://t.me/slither_on_xian)  
-- [Follow on X](https://x.com/slither_on_xian)
+- [Join $SSS Telegram](https://t.me/slither_on_xian)  
+- [Join $XIAN Telegram](https://t.me/xian_network)
 
 ---
 
