@@ -94,27 +94,41 @@ This guide will walk you through:
   
    ![Bridging Transaction](pictures/bridging_transaction.png)
 
-   - You may also verify the balance of XIAN in your Xian Wallet. 
+   - You may also verify the balance of XIAN in your Xian Wallet.
+   - Join the [Support Channel](https://t.me/xian_network/4611) of the official XIAN Telegram for assistance if you have tried all of these steps and are unable to bridge.
 
 ---
 
 ## 🐍 Step 3: Purchase $SSS on SNAKexchange.org
 
 1. **Open the Exchange**  
-   - Visit [https://snakexchange.org](https://snakexchange.org)  
-   - Click **Connect Wallet** and connect your Xian wallet
+   - Visit [https://snakexchange.org](https://snakexchange.org/?token0=currency&token1=con_slither)
+   - If your wallet is locked, you should be prompted to unlock your Xian wallet in a new tab.
+   - Go back to the SNAKexchange tab, and refresh the page if it still shows **Wallet Locked** in the top right corner.
+  
+   ![Wallet Locked](pictures/wallet_locked.png)
+ 
+   - You should now see the SNAK exchange website with your wallet displayed in the top right.
 
-   ![SNAKexchange homepage](path/to/snakexchange-home.png)
+   ![SNAKexchange homepage](pictures/swap_screen.png)
 
 2. **Swap XIAN for SSS**  
-   - From Token: `XIAN`  
-   - To Token: `SSS`  
-   - Enter the amount to swap  
+   - If these are not already selected:
+      - Sell Token: `XIAN`  
+      - Buy Token: `SSS`  
+   - Enter the amount of XIAN to swap for SSS in the top box, 1000 in this example.
+
+   ![SNAKexchange homepage](pictures/swap_ex1.png
+
+    - The default slippage value is set to 3%, so check the **Price impact** and if it is >3% you can either:
+    -    
+ 
+ 
    - Click **Swap** and approve in your wallet
 
-   ![Swap screen](path/to/swap-sss.png)
+   ![SNAKexchange homepage](pictures/swap_ex1png)
 
-3. **Verify Balance**  
+4. **Verify Balance**  
    - Check your wallet to confirm receipt of $SSS tokens
 
 ---
