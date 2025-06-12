@@ -120,10 +120,12 @@ This guide will walk you through:
 
    ![SNAKexchange homepage](pictures/swap_ex1.png)
 
-    - The default slippage value is set to 3%, so check the **Price impact** and if it is >3% you can either:
-    -    
- 
- 
+    - The default slippage value is set to 3%, so check the **Price Impact** and if it is >3% you can either:
+       - Decrease the swap amount until the **price impact** is <3%.
+       - OR Click the small gear above the swap interface, and change the slippage max to something larger than the calculated price impact and then click **Close**.
+     
+         ![SNAKexchange homepage](pictures/slippage.png)
+
    - Click **Swap** and approve in your wallet
 
    ![SNAKexchange homepage](pictures/swap_ex1.png)
