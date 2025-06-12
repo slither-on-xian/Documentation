@@ -118,7 +118,7 @@ This guide will walk you through:
       - Buy Token: `SSS`  
    - Enter the amount of XIAN to swap for SSS in the top box, 1000 in this example.
 
-   ![SNAKexchange homepage](pictures/swap_ex1.png
+   ![SNAKexchange homepage](pictures/swap_ex1.png)
 
     - The default slippage value is set to 3%, so check the **Price impact** and if it is >3% you can either:
     -    
@@ -126,7 +126,7 @@ This guide will walk you through:
  
    - Click **Swap** and approve in your wallet
 
-   ![SNAKexchange homepage](pictures/swap_ex1png)
+   ![SNAKexchange homepage](pictures/swap_ex1.png)
 
 4. **Verify Balance**  
    - Check your wallet to confirm receipt of $SSS tokens
