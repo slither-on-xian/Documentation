@@ -16,7 +16,10 @@ This guide will walk you through:
    - Go to [Raydium Swap](https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At). This link takes you to the direct swap page for the token GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At which is the wrapped $XIAN token on Solana.
    - Click **I understand, confirm** for the $XIAN trading pair.
    
-   ![Screenshot of confirming](pictures/confirm_on_raydium.png)
+<p align="center">
+  <img src="pictures/confirm_on_raydium.png" alt="Screenshot of confirming" />
+</p>
+   
    - Click **Connect Wallet**.
 
    ![Screenshot of connecting Phantom](pictures/connect_to_raydium.png)
@@ -33,7 +36,7 @@ This guide will walk you through:
   
    ![Screenshot of connected to Raydium](pictures/connected_to_raydium.png)
 
-2. **Enter Amount and Swap**  
+3. **Enter Amount and Swap**  
    - Input the amount of SOL to swap. Be sure to keep around 0.02 SOL for transaction fees.
    - Click **Swap**.  
   
