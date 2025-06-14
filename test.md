@@ -135,7 +135,7 @@ Next: 🐍 **Step 3: Buy $SSS**.
 
 ---
 
-### 🚀 Quick-Links
+### Quick-Links
 
 - [Raydium Swap][raydium]  
 - [XIAN Bridge][bridge]  
