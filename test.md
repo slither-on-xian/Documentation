@@ -7,7 +7,7 @@
 
 ---
 
-### 🔄 Step 1: Swap SOL to XIAN
+### Step 1: Swap SOL to XIAN
 
 > ⚠️ **Keep at least `0.02 SOL`** in your wallet to cover fees.  
 > 💡 **Tip:** If slippage >3%, click the ⚙️ icon in the swap widget to adjust.
@@ -45,7 +45,7 @@ Proceed to 🌉 **Step 2: Bridge** below.
 
 ---
 
-### 🌉 Step 2: Bridge XIAN to Mainnet
+### Step 2: Bridge XIAN to Mainnet
 
 > ⚠️ **Bridge Fee:** Flat rate per transaction, regardless of amount.
 
