@@ -1,14 +1,15 @@
 # 💱 How to Buy $SSS on Xian via Raydium and SNAKexchange on Desktop
 
-This guide will walk you through:
-
-- Swapping SOL for $XIAN using Raydium on Solana
-- Bridging $XIAN to the Xian mainnet
-- Buying $SSS on the native DEX, SNAKexchange.org
+<!-- TABLE OF CONTENTS -->
+## 📑 Table of Contents
+1. [Step 1: Swap SOL to XIAN](#step-1-swap-sol-to-xian)  
+2. [Step 2: Bridge XIAN to Mainnet](#step-2-bridge-xian-to-mainnet)  
+3. [Step 3: Buy SSS on SNAKexchange](#step-3-buy-sss-on-snakexchange)  
+4. [Quick-Links](#quick-links)  
 
 ---
 
-## 🔄 Step 1: Swap SOL for $XIAN on Raydium
+### Step 1: Swap SOL to XIAN
 
 1. **Connect Your Wallet**  
    - If you don't have one, install a Solana wallet like [Phantom](https://phantom.app/) which is preferred for bridging.
@@ -68,7 +69,7 @@ This guide will walk you through:
 
 ---
 
-## 🌉 Step 2: Bridge $XIAN to the Xian Mainnet
+### Step 2: Bridge XIAN to Mainnet
 
 1. **Chains**  
    - Visit [https://bridge.xian.org](https://bridge.xian.org).
@@ -133,7 +134,7 @@ This guide will walk you through:
 
 ---
 
-## 🐍 Step 3: Purchase $SSS on SNAKexchange.org
+### Step 3: Buy SSS on SNAKexchange
 
 1. **Open the Exchange**  
    - Visit [https://snakexchange.org](https://snakexchange.org/?token0=currency&token1=con_slither)
@@ -192,15 +193,18 @@ This guide will walk you through:
 
 ---
 
-## 📢 Stay Connected
+### Quick-Links
 
-- [Join $SSS Telegram](https://t.me/slither_on_xian)  
-- [Join $XIAN Telegram](https://t.me/xian_network)
+- [Raydium Swap][raydium]  
+- [XIAN Bridge][bridge]  
+- [SNAKexchange][snak]  
+- [Join $SSS Telegram][tg-sss]  
+- [Join $XIAN Telegram][tg-xian]  
 
 ---
 
-## ✅ Summary
-
-- 🔄 Swap SOL for $XIAN on Raydium  
-- 🌉 Bridge $XIAN to Xian Mainnet  
-- 🐍 Buy $SSS on SNAKexchange.org  
+[raydium]: https://raydium.io/swap/?inputMint=sol&outputMint=GnaXkbmMV1zGK6bRCQnM9Jd6Jv2Hjw5b2PFVBaKEE5At  
+[bridge]: https://bridge.xian.org  
+[snak]: https://snakexchange.org/?token0=currency&token1=con_slither  
+[tg-sss]: https://t.me/slither_on_xian  
+[tg-xian]: https://t.me/xian_network  
